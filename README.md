@@ -24,7 +24,7 @@ WebMate AI is an intelligent Chrome extension that brings AI assistance directly
 ⚙️ Dedicated options page to manage API keys
 
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 Chrome Extension APIs (Manifest V3)
 
@@ -85,22 +85,22 @@ Paste the key and click Save Settings
 
 # Privacy & Security
 
-API keys are stored securely using Chrome Sync Storage
+1. API keys are stored securely using Chrome Sync Storage
 
-No user data is logged or stored externally
+2. No user data is logged or stored externally
 
-API calls are made directly from the extension
+3. API calls are made directly from the extension
 
 
 # Use Cases
 
-Students asking conceptual questions
+1. Students asking conceptual questions
 
-Developers seeking quick explanations
+2. Developers seeking quick explanations
 
-Researchers summarizing ideas
+3. Researchers summarizing ideas
 
-General productivity and learning
+4. General productivity and learning
 
 
 # Contributions
